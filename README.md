@@ -1,4 +1,15 @@
-spring-simple-app-template
+Spring Simple App Template
 ==========================
+Project Template Aplikasi Desktop Menggunakan Spring  
+Hemat waktu karena tinggal mengedit konfigurasi yang sudah ada
 
-Spring Simple App Template. Biar gak bolak balik bikin konfigurasi Spring dari awal. Java+Spring+Hibernater+MySql
+Teknologi
+---------------------
+- Java
+- Spring
+- Hibernater
+- MySql
+
+Website
+------------------
+-[agung-setiawan.com](http://agung-setiawan.com "Agung Setiawan")
