@@ -7,9 +7,9 @@ Teknologi
 ---------------------
 - Java
 - Spring
-- Hibernater
+- Hibernate
 - MySql
 
 Website
 ------------------
--[agung-setiawan.com](http://agung-setiawan.com "Agung Setiawan")
+[agung-setiawan.com](http://agung-setiawan.com "Agung Setiawan")
